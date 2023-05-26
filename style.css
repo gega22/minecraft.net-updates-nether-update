@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+body{
+    background: url('bttn-header.avif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
+.txt{
+    font-family: 'Roboto', sans-serif;
+}
+.txt1{
+    font-family: 'Roboto', sans-serif;
+}
+.txt2{
+    font-family: 'Roboto', sans-serif;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .netherite{
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+  }
+  .netherite2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+  }
+  .n3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+  }
+  .n4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+  }
+  .n5{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+  }
+  .p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+  }
+  .p1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+  }
+  .p2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+  }
+  .p3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+  }
+  .h{
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+  }
+  .h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+  }
+  .h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+  }
+  .h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+  }
+  .t{
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+  }
+  .t1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+  }
+  .t2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+  }
